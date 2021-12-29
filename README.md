@@ -29,3 +29,12 @@ Training Example：
 
 	python unet+lstm_main.py --station_location_txtdir /path/to/txt.txt --station_datadir /path/to/npydir --swr_dir /path/to/swr/dir path/to/npy
 
+# Cite Paper:
+
+Plain text version:
+
+T. Yao et al., "Intra-Hour Photovoltaic Generation Forecasting Based on Multi-Source Data and Deep Learning Methods," in IEEE Transactions on Sustainable Energy, vol. 13, no. 1, pp. 607-618, Jan. 2022, doi: 10.1109/TSTE.2021.3123337.
+
+or BibTeX version:
+
+@ARTICLE{9591417,  author={Yao, Tiechui and Wang, Jue and Wu, Haoyan and Zhang, Pei and Li, Shigang and Xu, Ke and Liu, Xiaoyan and Chi, Xuebin},  journal={IEEE Transactions on Sustainable Energy},   title={Intra-Hour Photovoltaic Generation Forecasting Based on Multi-Source Data and Deep Learning Methods},   year={2022},  volume={13},  number={1},  pages={607-618},  doi={10.1109/TSTE.2021.3123337}}
